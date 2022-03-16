@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Mathieu a french developer.
+
 - 🔭 I’m currently working on customer-order-management.demeter (frontend & backend) and GIE
 - 🌱 I’m currently learning Typescript, Angular, and NodeJS
 
