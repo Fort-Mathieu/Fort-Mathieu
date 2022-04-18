@@ -17,8 +17,4 @@ I'm Mathieu a french developer.
 - 🔭 I’m currently working on a private project (Ruby On Rails), customer-order-management.demeter frontend/backend (Angular/NodeJS) and GIE (Java)
 - 🌱 I’m currently learning Typescript, Angular, NodeJS, Docker, Ruby and Ruby on Rails
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,express,angular,ruby,rails,mongodb,git,mysql,postgres,docker,idea,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,express,angular,ruby,rails,mongodb,git,mysql,postgres,docker,idea,vscode&perline=6)](https://skillicons.dev)
