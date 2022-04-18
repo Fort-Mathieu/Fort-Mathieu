@@ -18,3 +18,5 @@ I'm Mathieu a french developer.
 - 🌱 I’m currently learning Typescript, Angular, NodeJS, Docker, Ruby and Ruby on Rails
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,express,angular,ruby,rails,mongodb,git,mysql,postgres,docker,idea,vscode&perline=8)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode&perline=8)](https://skillicons.dev)
