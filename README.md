@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 I'm Mathieu a french developer.
 
-- 🔭 I’m currently working on customer-order-management.demeter (frontend & backend) and GIE
+- 🔭 I’m currently working on a private project (Ruby On Rails), customer-order-management.demeter frontend/backend (Angular/NodeJS) and GIE (Java)
 - 🌱 I’m currently learning Typescript, Angular, and NodeJS
 
 <p align="center">
